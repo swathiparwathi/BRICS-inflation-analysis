@@ -28,7 +28,7 @@ $$\pi_{i}^{core} = \delta_0 + \delta_1 C_i + \delta_2 I_i + \delta_3 G_i + \delt
 Where:
 *   $C_i$: Domestic Consumption Growth (YoY)
 *   $I_i$: Gross Fixed Capital Formation / Investment Growth (YoY)
-*   $G_i$: Government Expenditure / Issued Bonds Growth (YoY)
+*   $G_i$: Government Expenditure Growth (YoY)
 *   $XN_i$: Net Exports Growth (YoY)
 
 ## Key Technical Findings
