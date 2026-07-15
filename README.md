@@ -22,6 +22,7 @@ $$\pi_{i, t}^{core} - \pi_{i, t-12}^{core} = \alpha_i + \delta_i (\pi_{i, t-12}^
 ### 3. Aggregate Demand Disaggregation
 To challenge the traditional demand-pull paradigm, OLS specifications isolate disaggregated quarterly aggregate demand components:
 $$\pi_{i}^{headline} = \gamma_0 + \gamma_1 C_i + \gamma_2 I_i + \gamma_3 G_i + \gamma_4 XN_i + \upsilon_i$$
+
 $$\pi_{i}^{core} = \delta_0 + \delta_1 C_i + \delta_2 I_i + \delta_3 G_i + \delta_4 XN_i + \phi_i$$
 
 Where:
