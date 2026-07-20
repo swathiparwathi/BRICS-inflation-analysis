@@ -23,7 +23,7 @@ $$\pi_{i,t}^{\text{core}} - \pi_{i,t-12}^{\text{core}} = \alpha_i + \delta_i (\p
 ### 3. Association of Aggregate Demand Components with Headline and Core Inflation
 To challenge the traditional demand-pull paradigm, OLS specifications isolate disaggregated quarterly aggregate demand components:
 $$\pi_{i,t}^{\text{headline}} = \gamma_0 + \gamma_1 C_i + \gamma_2 I_i + \gamma_3 G_i + \gamma_4 XN_i + \nu_i$$
-$$\pi_{i,t}^{\text{core}} = \handle_0 + \handle_1 C_i + \handle_2 I_i + \handle_3 G_i + \handle_4 XN_i + \phi_i$$
+$$\pi_{i,t}^{\text{core}} = \delta_0 + \delta_1 C_i + \delta_2 I_i + \delta_3 G_i + \delta_4 XN_i + \phi_i$$
 
 Where:
 *   $C_i$: Domestic Consumption Growth (YoY)
